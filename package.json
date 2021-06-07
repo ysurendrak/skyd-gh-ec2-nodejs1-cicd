@@ -1,0 +1,7 @@
+{
+    "name": "skyd-gh-ec2-nodejs1-cicd",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "4.17.1"
+    }
+}
