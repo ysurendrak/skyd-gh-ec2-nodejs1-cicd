@@ -4,7 +4,7 @@ const port = 3000;
 
 app.get('/' , (req , res)=>{
 
-   res.send('<h1>hello from simple ver : 1.0)</h1>')
+   res.send('<h1>hello from simple ver : 2.0 :)</h1>')
 
 })
 
@@ -17,7 +17,7 @@ app.get('/products' , (req , res)=>{
        },
        {
             productid: '102',
-            price: 200
+            price: 150
         }])
 
 })
